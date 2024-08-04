@@ -1,4 +1,4 @@
 commit #1
 only first-branch should see this change
-I modified this line in both branches
+this branch should overwrite this line
 
