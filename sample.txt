@@ -1,4 +1,0 @@
-commit #1
-only first-branch should see this change
-this branch should overwrite this line
-
